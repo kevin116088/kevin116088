@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kevin Lien</h1>
 <h3 align="center">a student studying at NTUEE</h3>
 
+- ⚡ Achievements **silver medal of Asian Physics Olympaid in 2024**
+
+- 💬 Ask me about **physics, electrical engineering, flutter, technical indicators**
+
 - 🌱 I’m currently learning **app building,backend development,stock trading**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kevin116088](https://github.com/kevin116088)
 
-- 💬 Ask me about **physics, electrical engineering, flutter, technical indicators**
-
 - 📫 How to reach me **116088kevin@gmail.com**
 
-- ⚡ Achievements **silver medal of Asian Physics Olympaid in 2024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
